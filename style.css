@@ -47,6 +47,15 @@ body{
      padding: 24px;
 }
 
+.estudante{
+     text-align: center;
+     margin: 100px;
+}
+
+.estudante-titulo{
+     text-align: center;
+     padding: 50px 0;
+}
 .estudante-img{
      width: 120px;
 }
@@ -59,5 +68,8 @@ body{
      justify-content: center;
 }
 .estudante-items{
-     display: flex;
+     text-align: center;/*Alinha os itens*/
+     padding: 16px 0;
+     display: grid;
+     grid-template-columns: repeat(3, 1fr);
 }
