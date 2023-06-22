@@ -73,3 +73,15 @@ body{
      display: grid;
      grid-template-columns: repeat(3, 1fr);
 }
+
+.rodape{
+     background-color: black;
+     text-align: center;
+
+}
+
+.rodape-img{
+     height: 60px;
+     padding: 12px 0;
+     text-align: center;
+}
