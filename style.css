@@ -46,3 +46,18 @@ body{
 .escola-titulo{
      padding: 24px;
 }
+
+.estudante-img{
+     width: 120px;
+}
+.estudante-icone{
+     width: 24px;
+}
+
+.estudante-item{
+     padding: 10px;
+     justify-content: center;
+}
+.estudante-items{
+     display: flex;
+}
